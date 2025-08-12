@@ -2,8 +2,6 @@
 
 🚀 I'm a Software Engineer passionate about building scalable, performant, and clean backend systems.  
 🧠 Always curious, constantly learning, and obsessed with solving real-world problems through code.  
-🏢 Currently working at Priseen Solutions LLC as a Backend Engineer (Node.js + PostgreSQL).  
-🌐 Tech is my playground — from APIs to databases, I love architecting reliable systems.
 
 ---
 
