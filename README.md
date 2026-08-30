@@ -35,6 +35,8 @@ Currently focusing on backend architecture, system design, cloud infrastructure,
 
 I'm also working on a few projects outside of work to explore ideas and technologies that I don't always get to use day-to-day.
 
+I like building things, breaking them, and figuring out why they broke. :)
+
 ## Experience
 
 I've worked across the full development lifecycle, including:
