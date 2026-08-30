@@ -1,51 +1,56 @@
-## Hey there, I'm Azka Iftikhar 👋
+# Hi, I'm Azka Iftikhar
 
-🚀 I'm a Software Engineer passionate about building scalable, performant, and clean backend systems.  
-🧠 Always curious, constantly learning, and obsessed with solving real-world problems through code.  
+I'm a Full-Stack Software Engineer with 3+ years of experience building and maintaining web applications, backend services, APIs, and cloud infrastructure.
 
----
+I primarily work with TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Redis, and AWS. I also have experience with automated testing, CI/CD, third-party integrations, and production deployments.
 
-### 🛠️ Tech Stack
+I enjoy working on systems where there's more to solve than just writing the code — architecture, performance, reliability, and making things easier to maintain.
 
-**Languages & Scripting:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+## Tech Stack
 
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+**Languages**
+TypeScript, JavaScript, Python
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+**Frontend**
+React, Next.js
 
----
+**Backend**
+Node.js, NestJS, Express.js, Django
 
-### 📈 GitHub Stats
+**Databases**
+PostgreSQL, MySQL, MongoDB, Redis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azkaiftikhar01&show_icons=true&theme=github_dark&hide_border=true" alt="Azka's GitHub Stats" />
-</p>
+**Cloud & DevOps**
+AWS, Docker, GitHub Actions, CI/CD
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=azkaiftikhar01&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+**Testing & Tools**
+Playwright, Selenium, Postman, Git, GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaiftikhar01&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+**Integrations**
+Stripe, Meta APIs, REST APIs, Webhooks
 
----
+## What I'm Working On
 
-### 🔗 Let's Connect
+Currently focusing on backend architecture, system design, cloud infrastructure, and building production-ready applications.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/azka-iftikhar-a15916195/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:iftikharazka1@gmail.com)
+I'm also working on a few projects outside of work to explore ideas and technologies that I don't always get to use day-to-day.
 
----
+## Experience
+
+I've worked across the full development lifecycle, including:
+
+* Designing and developing frontend applications
+* Building REST APIs and backend services
+* Designing and working with relational and NoSQL databases
+* Integrating third-party APIs and payment systems
+* Setting up CI/CD pipelines and cloud deployments
+* Writing and maintaining automated tests
+* Working with clients and translating requirements into technical solutions
+* Reviewing code and contributing to technical decisions
+
+## Find Me
+
+[LinkedIn](https://www.linkedin.com/in/azka-iftikhar-a15916195/)
+[Email](mailto:iftikharazka1@gmail.com)
+
+Open to interesting engineering opportunities and international relocation.
