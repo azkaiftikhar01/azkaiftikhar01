@@ -27,7 +27,7 @@ Regression suite that runs against dev, staging and production, in CI.
 
 - **Certified.io:** I own architecture across backend, frontend and AWS (ECS, CodePipeline), with separate dev, staging and production environments. I also built its AI support bot.
 - **Charity compliance and audit system:** architected it with encrypted records, immutable audit trails, cryptographic timestamping and role-based access isolation.
-- **Card trading marketplace:** a React Native app live on the App Store and Google Play. I built the card scanner on my own; it combines OCR and OpenCV to identify the exact card variant in real time.
+- **Card trading marketplace:** a React Native app live on the App Store and Google Play. I built its real-time card identification on my own, using OCR and computer vision.
 - **Priseen Solutions (Dubai, remote):** cut average API response time by 40% with Redis caching on the highest-traffic endpoints.
 - **[WatchTower](https://github.com/azkaiftikhar01/watchtower)** (Code for Pakistan, open source): migrated the backend from Node.js to Bun.js and from MongoDB to PostgreSQL.
 
