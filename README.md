@@ -11,6 +11,9 @@ Lead developer on [Certified.io](https://certified.io), an Australian certificat
 
 ### Selected projects
 
+**[samey](https://github.com/azkaiftikhar01/samey)** · TypeScript, Node.js, Playwright · open source
+A CLI that audits websites built with Claude Code, Cursor or Codex for what makes them look like every other one: stock gradients, the same card grid everywhere, template copy, dead links, mobile overflow. Every finding comes with evidence and a ready-to-paste fix prompt for your coding agent. Runs locally, with an SSRF-safe crawler and no API keys.
+
 **[Leadboard](https://github.com/azkaiftikhar01/leadboard)** · Electron, React 19, Express, MongoDB
 A voice-first cockpit for engineering team leads that lives in the macOS menu bar. Talk to it and it structures the captures into tasks. It runs the morning standup as a guided routine, and works out rework, delivery and deadline metrics from the work that's already happening.
 
